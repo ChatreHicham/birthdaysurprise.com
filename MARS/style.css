@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(image1.jpg);
+}
+.bday{
+    font-family: 'Happy Birthday', sans-serif;
+    text-align: center;
+    font-size: 60px;
+}
+.name{
+    font-family: 'Happy Birthday', sans-serif;
+    font-size: 60px;
+    text-align: center;
+}
+.ytb{
+    position: absolute;
+    left: 38%;
+    top: 45%;
+}
